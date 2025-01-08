@@ -2,6 +2,8 @@
 
 This is a Simple RNN project for sentiment analysis of IMDb movie reviews. The project demonstrates end-to-end deep learning implementation using TensorFlow and Keras, with deployment via Streamlit.
 
+Try the model in action: https://imdb-sentiment-analysis-qwdwd5jry26b5ngk7xrvuk.streamlit.app/
+
 # Project Architecture
 • Data ingestion of IMDb movie reviews dataset (50,000 records)
 • Feature engineering and transformation using embedding layers

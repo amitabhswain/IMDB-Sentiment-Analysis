@@ -1,4 +1,5 @@
 tensorflow>=2.16.0
+h5py
 pandas 
 numpy 
 scikit-learn
